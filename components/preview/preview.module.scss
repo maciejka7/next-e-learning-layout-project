@@ -1,0 +1,17 @@
+$color-gray: '#fafafa';
+$color-red: '#fc6b58';
+$color-yellow: '#f6bb00';
+$color-teal: '#57baab';
+$color-black: '#160e4d';
+
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  max-width: 800px;
+}
